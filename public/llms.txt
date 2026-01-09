@@ -1,0 +1,57 @@
+# רוזס — Generative Engine Optimization Map
+
+> A מזון ומתנות business.
+
+---
+
+## Pages
+
+### בית
+https://-9dbe57c9.zappy5.app
+גלו את רוזס - מארזי שוקולד יוקרתיים ומעוצבים במיוחד לאירועים מיוחדים. שוקולד במתנה ליום הולדת, חגים ואירועי חברה.
+
+### המוצרים שלנו
+https://-9dbe57c9.zappy5.app/products
+גלו את הקולקציה המלאה של מארזי שוקולד יוקרתיים של רוזס. שוקולד במתנה ליום הולדת, מתנות לעובדים ומארזים מיוחדים לכל אירוע.
+
+### אודות
+https://-9dbe57c9.zappy5.app/about
+גלו את הסיפור מאחורי רוזס - המומחים ליצירת מארזי שוקולד יוקרתיים ומעוצבים. שוקולד במתנה ליום הולדת ומתנות לעובדים עם תשומת לב לכל פרט.
+
+### צור קשר
+https://-9dbe57c9.zappy5.app/contact
+צרו קשר עם רוזס להזמנת מארזי שוקולד יוקרתיים. שוקולד במתנה ליום הולדת, מתנות לעובדים ומארזים מותאמים אישית לכל אירוע.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-9dbe57c9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-9dbe57c9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-9dbe57c9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About רוזס
+רוזס is a business in the מזון ומתנות industry.
+
+## Target Audience
+לקוחות לכל אירוע
+
+## Industry
+מזון ומתנות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-9dbe57c9.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-9dbe57c9.zappy5.app/robots.txt
